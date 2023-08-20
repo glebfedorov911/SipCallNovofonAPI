@@ -1,0 +1,114 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy');
+
+.main-rectangle {
+    border-radius: 10px;
+    box-shadow: 0px 5px 30px 0px rgba(42, 52, 61, 0.05);
+    width: 345px;
+    height: 401px;
+}
+
+.line {
+    border-radius: 10px 10px 0px 0px;
+    background: #1466AC;
+    width: 345px;
+    height: 5px;
+}
+
+.fullname {
+    color: #282A2E;
+
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    width: 193px;
+    height: 88px;
+}
+
+.square {
+    color: #282A2E;
+    text-align: center;
+
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    width: 143px;
+    height: 42px;
+    margin-left: 200px;
+    margin-top: -105px;
+}
+
+.fulltext {
+    color: #282A2E;
+
+    font-family: Gilroy;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    width: 305px;
+    height: 72px;
+}
+
+.msg {
+    display: flex;
+    width: 308px;
+    height: 58px;
+    padding: 10px 0px;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 10px;
+    border: 1px solid #1466AC;
+    margin-top: 90px;
+}
+
+.call {
+    display: flex;
+    width: 139px;
+    height: 30px;
+    padding: 10px 0px;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 10px;
+    background: #1466AC;
+    margin-top: -50px;
+}
+
+.awhite {
+    color: white;
+}
+
+.suc {
+    border-radius: 10px;
+    background: #6DBD72;
+
+    display: flex;
+    width: 138px;
+    height: 30px;
+    padding: 20px 0px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 180px;
+    margin-top: 10px;
+    color: white;
+}
+
+.from {
+    border-radius: 10px;
+    border: 1px solid #1466AC;
+
+    display: flex;
+    width: 308px;
+    height: 8px;
+    padding: 10px 0px;
+    justify-content: center;
+    align-items: center;
+}

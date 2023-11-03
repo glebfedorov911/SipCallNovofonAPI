@@ -22,8 +22,8 @@
 
 
     function connectionApi($params, $apiLink) {
-        $userKey = ""; // данные из вашего api
-        $secret = ""; // данные из вашего api
+        $userKey = "be96a3d4df68839d9960"; // данные из вашего api
+        $secret = "c8da8cf981c577ebb160"; // данные из вашего api
 
         // функция звонка
 
@@ -73,7 +73,7 @@
     echo connectionApi($params, $apiLink);
 
 ?>
-
+<meta http-equiv="X-UA-Compatible" content="ie=edge" charset="UTF-8">
 <button id="back">Вернуться на предыдущую страницу</button>
 
 <script>

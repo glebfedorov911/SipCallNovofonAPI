@@ -1,7 +1,7 @@
 <?php
     // сохранения комментария
     session_start();
-    require_once "lang.php";
+//    require_once "lang.php";
 
     $com = $_POST["msg"];
     $phone = $_SESSION["to"];

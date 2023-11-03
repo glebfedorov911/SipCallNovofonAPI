@@ -2,7 +2,7 @@
 
 ?>
 
-
+<meta http-equiv="X-UA-Compatible" content="ie=edge" charset="UTF-8">
 <form action="adminLoginCheck.php" method="post">
 
 <!--    форма входа в админку   -->
